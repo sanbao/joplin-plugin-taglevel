@@ -14,6 +14,6 @@
 		"markdown-it",
 		"taglevel"
 	],
-	"_publish_hash": "sha256:91e2672a10a82cc7f1c3b1cef5ac18fbde25125a8e30f38a8b1e34ca96f06cf5",
-	"_publish_commit": "main:3a9828cedec5d69d3d8604d1eb6de80744df023a"
+	"_publish_hash": "sha256:b888855a68ee8da5aeb7354714185820b7ca050d1be6819e675db63a5d628433",
+	"_publish_commit": "master:bec750af9dacd93d6f81915c142a6bca7631e30c"
 }
